@@ -29,7 +29,7 @@ Types of Data Collected
 
 Personal Data
 
-We do not collect any personal data from users of our Service. All data you enter into the Mijn Boodschappen app is stored locally on your device and is not transmitted to our servers or any third parties.
+We do not collect any personal data from users of our Service. All data you enter into the Mijn Boodschappen app is stored locally on your device using Realm and is not transmitted to our servers or any third parties.
 
 Usage Data
 
