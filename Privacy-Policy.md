@@ -48,6 +48,7 @@ Transfer of Your Personal Data
 We do not transfer any personal data as we do not collect any.
 
 Delete Your Personal Data
+
 Since we do not collect any personal data, there is no data for us to delete. All data is stored locally on your device, and you can manage it through the app.
 
 Disclosure of Your Personal Data
